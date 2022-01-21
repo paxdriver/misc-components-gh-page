@@ -1,2 +1,2 @@
 # misc-components-gh-page
-Scratch pad for component sketches
+Scratch pad for React component sketches
